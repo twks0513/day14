@@ -19,7 +19,8 @@ public class Ex08 {
 		
 		try {
 			System.out.println(10/2);
-		} catch (Exception e) {
+			
+		} catch (Exception e) { 
 			System.out.println("catch 실행");			
 		}finally {
 			System.out.println("finally 실행");
